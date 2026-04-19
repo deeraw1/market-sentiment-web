@@ -16,7 +16,7 @@ import {
 } from "recharts";
 
 const API_BASE =
-  process.env.NEXT_PUBLIC_API_URL || "https://market-sentiment-api.onrender.com";
+  process.env.NEXT_PUBLIC_API_URL || "https://market-sentiment-api-1.onrender.com";
 
 const SAMPLE_HEADLINES = [
   "Fed signals pause on rate hikes as inflation cools toward 2% target",
